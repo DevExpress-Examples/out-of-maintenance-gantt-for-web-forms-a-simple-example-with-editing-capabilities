@@ -14,10 +14,10 @@
  
  *Files to look at:* 
  
- [Default.aspx](https://github.com/DevExpress-Examples/gantt-for-web-forms-a-simple-example-with-editing-capabilities/blob/20.1.4%2B/CS/DXWebApplication/Default.aspx.cs)
+ [Default.aspx](./CS/DXWebApplication/Default.aspx.cs)
  
- [GanttDataProvider.cs](https://github.com/DevExpress-Examples/gantt-for-web-forms-a-simple-example-with-editing-capabilities/blob/20.1.4%2B/CS/DXWebApplication/App_Data/GanttDataProvider.cs) ([GanttDataProvider.vb][0])
+ [GanttDataProvider.cs](./CS/DXWebApplication/App_Data/GanttDataProvider.cs) ([GanttDataProvider.vb][0])
 
 
 
-[0]: https://github.com/DevExpress-Examples/gantt-for-web-forms-a-simple-example-with-editing-capabilities/blob/20.1.4%2B/VB/DXWebApplication/App_Data/GanttDataProvider.vb
+[0]: ./VB/DXWebApplication/App_Data/GanttDataProvider.vb
