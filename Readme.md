@@ -16,8 +16,4 @@
  
  [Default.aspx](./CS/DXWebApplication/Default.aspx.cs)
  
- [GanttDataProvider.cs](./CS/DXWebApplication/App_Data/GanttDataProvider.cs) ([GanttDataProvider.vb][0])
-
-
-
-[0]: ./VB/DXWebApplication/App_Data/GanttDataProvider.vb
+ [GanttDataProvider.cs](./CS/DXWebApplication/App_Data/GanttDataProvider.cs) ([GanttDataProvider.vb](./VB/DXWebApplication/App_Data/GanttDataProvider.vb))
